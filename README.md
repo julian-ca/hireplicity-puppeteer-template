@@ -1,0 +1,1 @@
+# hireplicity-puppeteer-template
